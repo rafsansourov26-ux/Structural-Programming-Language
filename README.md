@@ -51,4 +51,8 @@ A menu-driven console application in C to keep track of organisations and their 
 ---
 
 ## Author
-* **Shafikuzzaman** ([@rafsansourov26-ux](https://github.com/rafsansourov26-ux))
+* **Name:** Shafikuzzaman ([@rafsansourov26-ux](https://github.com/rafsansourov26-ux))
+* **Roll:** 60
+* **Reg:** 2025331560
+* **Batch:** CSE-19
+* **Institute:** Sylhet Engineering College
